@@ -722,6 +722,7 @@
 1,sk,sk_
 1,skren,skren_
 1,skrist,skrist_
+1,skylapup,skylapup2,skylapup3,skylapupdroid,skylapupdroid2,skylapupdroid3
 1,skyryder,skyryder_
 1,slashe,slashe_
 1,sleepingd,sleepingd_
